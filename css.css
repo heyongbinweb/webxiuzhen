@@ -1,0 +1,9 @@
+body{width:100%;}
+.wrap{
+width: 31%;
+padding-bottom: 31%;
+background-color: yellow;
+border-radius: 15.5%;
+float: left;
+margin:1%;
+}
